@@ -1,0 +1,7 @@
+I2C.c:15:6:TWI_Init	8	static
+I2C.c:52:7:I2C1_Init	8	static
+I2C.c:85:7:I2C1_Start	4	static
+I2C.c:89:7:I2C1_Stop	4	static
+I2C.c:93:7:I2C1_WriteData	16	static
+I2C.c:97:7:I2C1_WriteAddress	16	static
+I2C.c:103:9:I2C1_ReadData	4	static

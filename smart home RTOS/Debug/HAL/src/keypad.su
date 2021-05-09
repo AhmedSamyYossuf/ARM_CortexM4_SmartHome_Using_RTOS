@@ -1,0 +1,2 @@
+keypad.c:9:7:Keypad_Init	4	static
+keypad.c:25:9:Keypad_GetKey	16	static

@@ -1,0 +1,8 @@
+App.c:11:6:getPassword	24	static
+App.c:22:9:confirmPassword	24	static
+App.c:42:6:FirstTimePassword	16	static
+App.c:67:6:SavedPassword	16	static
+App.c:101:6:ChangePassword	8	static
+App.c:107:6:DoorLock	16	static
+App.c:152:6:Temp_Sensor	48	static
+App.c:183:6:System_Init	8	static

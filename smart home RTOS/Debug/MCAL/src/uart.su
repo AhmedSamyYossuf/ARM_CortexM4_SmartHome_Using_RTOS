@@ -1,0 +1,8 @@
+uart.c:11:6:Uart_Init	40	static
+uart.c:64:6:Uart_SendByte	16	static
+uart.c:68:6:Uart_SendString	24	static
+uart.c:76:6:Uart_SendBytes	32	static
+uart.c:85:6:Uart_ReceiveByte	16	static
+uart.c:89:9:Uart_ReceiveByte_Unblock	24	static
+uart.c:99:9:Uart_ReceiveBytes	32	static
+uart.c:126:9:Uart_ReceiveBytes_Del	40	static

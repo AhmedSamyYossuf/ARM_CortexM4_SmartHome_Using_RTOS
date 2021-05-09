@@ -1,0 +1,2 @@
+spi.c:10:6:SPI2_Init	16	static
+spi.c:44:9:SPI_Tranceive	16	static

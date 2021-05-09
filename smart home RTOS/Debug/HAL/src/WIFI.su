@@ -1,0 +1,2 @@
+WIFI.c:10:9:WIFI_SendCmd	40	static
+WIFI.c:38:9:WIFI_GetFileSize	32	static

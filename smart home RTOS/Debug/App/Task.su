@@ -1,0 +1,7 @@
+Task.c:14:6:Task_Init	16	static
+Task.c:33:6:T_Input	24	static
+Task.c:73:6:T_Temp	16	static
+Task.c:81:6:T_Door_Lock	32	static
+Task.c:117:6:T_Lights	24	static
+Task.c:157:6:T_Network	16	static
+Task.c:162:6:T_Memory	16	static

@@ -1,0 +1,2 @@
+ultrasonic.c:12:6:Ultra_Init	8	static
+ultrasonic.c:21:11:Ultra_GetDistance	16	static

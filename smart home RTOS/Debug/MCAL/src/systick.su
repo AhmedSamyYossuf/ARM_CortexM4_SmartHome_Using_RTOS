@@ -1,0 +1,4 @@
+systick.c:11:8:SysTick_Init	16	static
+systick.c:16:8:SysTick_Restart	4	static
+systick.c:20:11:SysTick_GetTicks	4	static
+systick.c:24:6:SysTick_Handler	8	static
